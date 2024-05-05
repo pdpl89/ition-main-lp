@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/810fe48e-2e23-4635-8b0c-8bcc43146bcc/deploy-status)](https://app.netlify.com/sites/dreamy-cobbler-27a5c5/deploys)
